@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+.env/
+f1env/
+data/cache
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# python notebook 
+.ipynb_checkpoints/
