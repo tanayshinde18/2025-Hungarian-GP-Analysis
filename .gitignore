@@ -2,7 +2,7 @@
 venv/
 .env/
 f1env/
-data/cache
+data/cache/
 # Python cache files
 __pycache__/
 *.pyc
